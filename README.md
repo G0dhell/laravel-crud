@@ -39,8 +39,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-![01 Halaman Mahasiswa](https://github.com/RifkiCS29/laravel-crud/blob/master/public/img/mahasiswa.png)
-
 ## How To Install this Project
 
 - Persiapan
@@ -69,7 +67,7 @@ Langkah-Langkah
 11. Jika hanya ingin membuat tabel, jalankan perintah <b>php artisan migrate</b>. Cek di phpmyadmin, seharusnya tabel sudah muncul.
 12. Setelah selesai, Jalankan perintah <b>php artisan serve</b> maka dapat diakses dengan http://localhost:8000/
 
-SEKIAN PENJELASAN DARI SAYA, TERIMAKASIH. Created by <b>RIFKI</b>
+SEKIAN PENJELASAN DARI SAYA, TERIMAKASIH. Created by <b>Godel.jr</b>
 
 
 # laravel-crud
