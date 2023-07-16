@@ -69,7 +69,7 @@ Langkah-Langkah
 11. Jika hanya ingin membuat tabel, jalankan perintah <b>php artisan migrate</b>. Cek di phpmyadmin, seharusnya tabel sudah muncul.
 12. Setelah selesai, Jalankan perintah <b>php artisan serve</b> maka dapat diakses dengan http://localhost:8000/
 
-SEKIAN PENJELASAN DARI SAYA, TERIMAKASIH. Created by <b>RIFKI</b>
+SEKIAN PENJELASAN DARI SAYA, TERIMAKASIH. Created by <b>Godel.Jr</b>
 
 
 # laravel-crud
